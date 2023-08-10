@@ -1,0 +1,13 @@
+.a {
+    color: rgb(255,255,255);
+    background-color: hsl(0, 0%, 0%);
+}
+
+.b {
+    background-color: rgb(240,240,70);
+}
+
+.a, .b {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
